@@ -1,0 +1,4 @@
+Check if a String is Palindrome or Not Using Iterative Method
+Run a loop from starting to length/2 and
+check the first character to the last character of the string and second to second last one and so on …. 
+If any character mismatches, the string wouldn’t be a palindrome.
